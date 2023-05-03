@@ -1,1 +1,0 @@
-{"document_id":"com.samsung.android.app.routines\/routine","version":"1","name":"Dark mode on","conditions":[{"package":"com.samsung.android.app.routines","tag":"specific_time","intent_param":"17895697;21;0;0;0;0;false;-1939079589","is_negative":-1}],"actions":[{"package":"com.samsung.android.app.routines","tag":"night_mode","intent_param":"2","is_negative":0}]}
